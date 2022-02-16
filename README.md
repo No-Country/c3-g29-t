@@ -1,7 +1,7 @@
 # C3-G29-T: Forecasting "Demanda de Energía"
 ## Introducción
 <i>
-  El proyecto es el objetivo a lograr durante el curso de aceleración a la inserción laboral de No Countre.<br>
+  Proyecto a lograr como objetivo durante el curso de aceleración a la inserción laboral de No Country.<br>
   Se usarán dos modelos de pronóstico para un mismo set de datos de energía activa [kW], para luego comparar la eficiencia de los mismos.
 </i>
 
