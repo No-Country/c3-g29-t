@@ -1,0 +1,3 @@
+1- https://nextjournal.com/eric-brown/forecasting-with-prophet
+2- https://facebook.github.io/prophet/docs/installation.html
+3- https://facebook.github.io/prophet/docs/quick_start.html#python-api

@@ -1,0 +1,7 @@
+1- https://www.kaggle.com/robinteuwens/forecasting-energy-demand/notebook
+2- https://www.statsmodels.org/stable/generated/statsmodels.tsa.holtwinters.ExponentialSmoothing.html#statsmodels.tsa.holtwinters.ExponentialSmoothing
+3- https://www.statsmodels.org/v0.11.0/_modules/statsmodels/tsa/holtwinters.html
+4- https://www.statsmodels.org/stable/generated/statsmodels.tsa.holtwinters.ExponentialSmoothing.fit.html#statsmodels.tsa.holtwinters.ExponentialSmoothing.fit
+5- https://www.kaggle.com/prakharprasad/smoothing-holt-winters-forecast
+6- https://thequackdaddy.github.io/statsmodels.github.io/devel/examples/notebooks/generated/exponential_smoothing.html
+7- https://otexts.com/fpp2/holt-winters.html
