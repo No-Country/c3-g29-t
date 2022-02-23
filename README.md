@@ -27,8 +27,7 @@ El consumo de energía esperado se pronostica en base al periodo brindado.
 ### Métodos usados
 <ul>
   <li>Holt-Winters</li>
-  <li>Prophet</li>
-  <li>SARIMA</li>
+  <li>Prophet</li>  
 </ul>
 
 ### Tecnologías
