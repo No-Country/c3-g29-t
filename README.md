@@ -5,7 +5,7 @@
   Se usarán dos modelos de pronóstico para un mismo set de datos de energía activa [kW], para luego comparar la eficiencia de los mismos.
 </i>
 
---Estado del Projecto: En curso...<br>
+--Estado del Projecto: Completado<br>
 
 ## Motivaciones y definición de problemas
 Consideramos la función de pronosticar sucesos/eventos/valores como una de las áreas de investigación con mayor impacto en profesiones como marketing, financieras, energías renovables y electrónica (entre otras).
