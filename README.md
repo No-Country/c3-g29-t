@@ -25,8 +25,7 @@ El intervalo de toma de datos es igual a 15 minutos.<br>
 El consumo de energía esperado se pronostica en base al periodo brindado.
 
 ### Métodos usados
-<ul>
-  <li>Holt-Winters</li>
+<ul>  
   <li>Prophet</li>  
 </ul>
 
